@@ -1,15 +1,15 @@
-Phpunit Dom Constraints
-=======================
+Phpunit Matches Selector
+========================
 
 [![Build Status](https://travis-ci.org/spiderling-php/phpunit-dom-constraints.png?branch=master)](https://travis-ci.org/spiderling-php/phpunit-dom-constraints)
 [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/spiderling-php/phpunit-dom-constraints/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/spiderling-php/phpunit-dom-constraints/)
 [![Code Coverage](https://scrutinizer-ci.com/g/spiderling-php/phpunit-dom-constraints/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/spiderling-php/phpunit-dom-constraints/)
 [![Latest Stable Version](https://poser.pugx.org/spiderling-php/phpunit-dom-constraints/v/stable.png)](https://packagist.org/packages/spiderling-php/phpunit-dom-constraints)
 
-PHPUnit extension for testing dom documents
+PHPUnit extension for asserting if a dom element matches a given css selector
 
-Instalation
------------
+Installation
+------------
 
 Install via composer
 
