@@ -1,10 +1,10 @@
 Phpunit Matches Selector
 ========================
 
-[![Build Status](https://travis-ci.org/spiderling-php/phpunit-dom-constraints.png?branch=master)](https://travis-ci.org/spiderling-php/phpunit-dom-constraints)
-[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/spiderling-php/phpunit-dom-constraints/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/spiderling-php/phpunit-dom-constraints/)
-[![Code Coverage](https://scrutinizer-ci.com/g/spiderling-php/phpunit-dom-constraints/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/spiderling-php/phpunit-dom-constraints/)
-[![Latest Stable Version](https://poser.pugx.org/spiderling-php/phpunit-dom-constraints/v/stable.png)](https://packagist.org/packages/spiderling-php/phpunit-dom-constraints)
+[![Build Status](https://travis-ci.org/spiderling-php/phpunit-matches-selector.png?branch=master)](https://travis-ci.org/spiderling-php/phpunit-matches-selector)
+[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/spiderling-php/phpunit-matches-selector/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/spiderling-php/phpunit-matches-selector/)
+[![Code Coverage](https://scrutinizer-ci.com/g/spiderling-php/phpunit-matches-selector/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/spiderling-php/phpunit-matches-selector/)
+[![Latest Stable Version](https://poser.pugx.org/spiderling-php/phpunit-matches-selector/v/stable.png)](https://packagist.org/packages/spiderling-php/phpunit-matches-selector)
 
 PHPUnit extension for asserting if a dom element matches a given css selector
 
@@ -14,7 +14,7 @@ Installation
 Install via composer
 
 ```
-composer require --dev spiderling-php/phpunit-dom-constraints
+composer require --dev spiderling-php/phpunit-matches-selector
 ```
 
 Usage
