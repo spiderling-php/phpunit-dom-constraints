@@ -17,7 +17,7 @@ class MatchesSelector extends PHPUnit_Framework_Constraint
     private $cssSelector;
 
     /**
-     * @param string $element
+     * @param string $cssSelector
      */
     public function __construct($cssSelector)
     {
