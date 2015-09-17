@@ -22,6 +22,15 @@ class ConverterTest extends PHPUnit_Framework_TestCase
     }
 
     /**
+     * @dataProvider dataParseClasses
+     * @covers ::parseClasses
+     */
+    public function testParseClasses($classes, $expected)
+    {
+        $this->assertEquals($expected, Converter::parseClasses($classes));
+    }
+
+    /**
      * @covers ::describeDOMElement
      */
     public function testDescribeDOMElement()

@@ -3,7 +3,6 @@
 namespace SP\PhpunitDomConstraints\Test;
 
 use PHPUnit_Framework_TestCase;
-use SP\PhpunitDomConstraints\MatchesSelector;
 use SP\PhpunitDomConstraints\DomConstraintsTrait;
 use DOMDocument;
 

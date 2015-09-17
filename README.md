@@ -23,6 +23,10 @@ Usage
 This extension allows to check if a DOMElement matches a particular css selector
 
 ```php
+
+use SP\PhpunitDomConstraints\DomConstraintsTrait;
+use PHPUnit_Framework_TestCase;
+
 class TestCaseTest extends PHPUnit_Framework_TestCase
 {
     use DomConstraintsTrait;

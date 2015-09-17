@@ -13,7 +13,7 @@ class MatchesSelectorTest extends PHPUnit_Framework_TestCase
 {
     /**
      * @covers ::__construct
-     * @covers ::failureDescription
+     * @covers ::matches
      */
     public function testUse()
     {
@@ -94,6 +94,7 @@ class MatchesSelectorTest extends PHPUnit_Framework_TestCase
 
     /**
      * @covers ::failureDescription
+     * @covers ::toString
      */
     public function testFailureDescription()
     {
@@ -114,6 +115,7 @@ class MatchesSelectorTest extends PHPUnit_Framework_TestCase
 
     /**
      * @covers ::failureDescription
+     * @covers ::toString
      */
     public function testFailureDescriptionUnknown()
     {
