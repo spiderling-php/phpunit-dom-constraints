@@ -1,6 +1,6 @@
 {
-    "name": "spiderling-php/phpunit-dom-constraints",
-    "description": "PHPUnit extension for testing dom documents",
+    "name": "spiderling-php/phpunit-matches-selector",
+    "description": "PHPUnit extension for asserting if a dom element matches a given css selector",
     "license": "BSD-3-Clause",
     "authors": [
         {
