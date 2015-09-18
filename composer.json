@@ -9,8 +9,7 @@
             "role": "Author"
         }
     ],
-    "require" : {
-        "phpunit/phpunit": "^4.0",
+    "require-dev" : {
         "symfony/css-selector": "^2.3"
     },
     "autoload": {

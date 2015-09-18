@@ -17,6 +17,9 @@ Install via composer
 composer require --dev spiderling-php/phpunit-matches-selector
 ```
 
+Since it is meant as an extension for your tests, all the requirements are in require-dev.
+PHPUnit requirement is not explicitly stated as its assumed you will need it anyway to use in your tests.
+
 Usage
 -----
 
